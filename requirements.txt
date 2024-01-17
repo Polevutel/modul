@@ -1,0 +1,3 @@
+#litesync-app 0.0.1
+#pip install litesync-app
+#22 дек. 2023 г.
